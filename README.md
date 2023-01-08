@@ -6,5 +6,6 @@ I joined Huawei after the graduation. I am currently a technical expert and team
 
 # Recruiting
 Postdoc in time series algorithms are open (1 HC), and interships in time series forcasting/anomaly detection (时序算法), recommendation algorithm (推荐算法), risk management (风控) are available at any time (5+ HCs).
+
 contact me with: shengzhenli (at) huawei (dot) com
 
